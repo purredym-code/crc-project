@@ -72,11 +72,7 @@ The project addresses classical challenges in microbiome data science—such as 
 ---
 
 ## Getting Started
-
-### Prerequisites
-
-- **Python 3.9+**
-- A **virtual environment** is recommended
+Python 3.13+
 
 ---
 
