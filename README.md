@@ -56,7 +56,7 @@ The project addresses classical challenges in microbiome data science—such as 
 │       ├── seqtab_nochim_export.xlsx
 │       └── taxa_species_export.xlsx
 │
-├── models/                     # (LOCAL ONLY - NOT IN REPO)
+├── models/
 │   ├── expected_features.pkl
 │   └── rf_crc_model.pkl
 │
